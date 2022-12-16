@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-16T19:09:40.394Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.46" etag="NfQPll9XWosgdjlJEn1S" version="20.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-16T19:09:46.715Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.46" etag="xe38T-sfnpGAgRnpK8yQ" version="20.7.4" type="github">
   <diagram id="h7pEuEnsy4B67qq0xbHB" name="Page-1">
     <mxGraphModel dx="747" dy="470" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -14,7 +14,7 @@
           <mxGeometry x="90" y="310" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sFgMMatoZoRhjDfKrOZS-1" value="Reserver salle" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="230" width="90" height="60" as="geometry" />
+          <mxGeometry x="500" y="230" width="90" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
