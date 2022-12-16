@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-12-16T20:10:11.385Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.46" etag="5J7MHeg4VGLJ09I9ISW2" version="20.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-16T19:12:33.864Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.46" etag="r4obWDLizxc7_bG6U3XU" version="20.7.4" type="github">
   <diagram id="h7pEuEnsy4B67qq0xbHB" name="Page-1">
-    <mxGraphModel dx="868" dy="512" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="747" dy="470" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -16,8 +16,14 @@
         <mxCell id="sFgMMatoZoRhjDfKrOZS-1" value="Reserver salle" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="500" y="230" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RcBTG_JZsKzud-JeWphb-1" value="Consulter planning des salles" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RcBTG_JZsKzud-JeWphb-1" value="Consulter planning des salles" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="390" y="320" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8pni4uUTdmzYwjep5VIR-1" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iBCqy0RnsUPRaeBZmdre-1" target="RcBTG_JZsKzud-JeWphb-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="350" as="sourcePoint" />
+            <mxPoint x="210" y="300" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
